@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508706263 source:c:\users\administrador1\documents\1y2\fundamentos\area\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+
