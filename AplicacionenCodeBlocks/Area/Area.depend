@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1465949445 source:c:\users\nene\documents\1er semestre\fundamentos\area\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+
+1465949446 source:c:\users\administrador1\documents\1y2\fundamentos\area\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+
