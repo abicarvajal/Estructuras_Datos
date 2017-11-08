@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1510102045 source:c:\users\administrador1\documents\3er semestre\estructuradedatos\menubackground\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

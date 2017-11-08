@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509329643 source:c:\users\administrador1\documents\3er semestre\estructuradedatos\progra1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1510111315 source:c:\users\administrador1\documents\3er semestre\estructuradedatos\estructuraslistasimpledeber\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+
